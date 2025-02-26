@@ -1,0 +1,7 @@
+Miniconda3-latest-Windows-x86_64.exe
+CDA/
+.ipynb_checkpoints/
+__pycache__/
+*.txt
+*.pdf
+*.Ds_Store
